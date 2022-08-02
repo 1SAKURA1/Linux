@@ -1,0 +1,31 @@
+body{
+	background-image:url("../img/bkg-parallax-1.jpg");
+	background-size: cover;
+}
+
+.login-container{
+	position: absolute;
+  	left:50%;
+  	top:50%;
+  	transform: translate(-50%,-50%);
+	display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+button{
+	width:120px;
+	margin-bottom:5px;
+	margin-left:37px;
+}
+
+input{
+	margin-bottom:5px;
+}
+
+
+
+
+
+
